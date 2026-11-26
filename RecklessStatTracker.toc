@@ -1,0 +1,10 @@
+## Interface: 120105, 120100, 120007, 120005, 120001, 120000, 110207, 110205, 110200
+## Title: Reckless Stat Tracker
+## Notes: Displays Potion of Recklessness count, cooldown, and your current highest secondary stat rating in real time. Settings: minimap button menu.
+## Author: Gemini
+## Version: 1.1.0
+## SavedVariables: RecklessStatTrackerDB
+## IconTexture: 134830
+## AddonCompartmentFunc: RecklessStatTracker_OnAddonCompartmentClick
+
+RecklessStatTracker.lua
